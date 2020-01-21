@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-🌑 Cosmo Junkie 🌑
+🌑 Site Cosmo Junkie 🌑
 </h3>
 
 <p align="center">Nesse projeto foi desenvolvido um site responsivo utilizando o "mobile-first", design aplicado primeiramente para celulares e depois estendendo-o para telas com maiores proporções.</p>
